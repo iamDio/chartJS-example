@@ -19,6 +19,7 @@
   "homepage": "https://github.com/iamDio/chartJS-example#readme",
   "dependencies": {
     "angular": "^1.7.0",
-    "angular-cli": "^1.0.0-beta.28.3"
+    "angular-cli": "^1.0.0-beta.28.3",
+    "chart.js": "^2.7.2"
   }
 }
