@@ -1,0 +1,24 @@
+{
+  "name": "chartJS-example",
+  "version": "1.0.0",
+  "description": "Example project using angularjs and chartjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamDio/chartJS-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamDio/chartJS-example/issues"
+  },
+  "homepage": "https://github.com/iamDio/chartJS-example#readme",
+  "dependencies": {
+    "angular": "^1.7.0",
+    "angular-cli": "^1.0.0-beta.28.3"
+  }
+}
